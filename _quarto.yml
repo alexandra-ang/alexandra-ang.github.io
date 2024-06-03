@@ -1,11 +1,11 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Alexandra Anghel"
   navbar: 
-    background: "#C8ACA6"
+    background: "#E4ADE9"
     title: false
     left:
       - href: index.qmd
